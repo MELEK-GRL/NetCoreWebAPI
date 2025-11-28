@@ -1,0 +1,17 @@
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.Busiess.deps.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.Busiess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.Busiess.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.DataAccess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.Entity.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.DataAccess.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/bin/Debug/net8.0/NetCore.Entity.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.csproj.AssemblyReference.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.AssemblyInfoInputs.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.AssemblyInfo.cs
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.csproj.CoreCompileInputs.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore..7D7C104A.Up2Date
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/refint/NetCore.Busiess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/ref/NetCore.Busiess.dll

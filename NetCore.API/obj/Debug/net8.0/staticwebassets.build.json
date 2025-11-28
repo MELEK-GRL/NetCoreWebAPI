@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TPKtxa/pi3UWOUBqBzf0KADIbA7LeZlOLWpiK0SfupU=",
+  "Source": "NetCore.API",
+  "BasePath": "_content/NetCore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

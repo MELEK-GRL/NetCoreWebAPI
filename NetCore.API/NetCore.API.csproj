@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="13.0.1" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.22" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+          <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NetCore.Busiess\NetCore.Busiess.csproj" />
+      <ProjectReference Include="..\NetCore.DTO\NetCore.DTO.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Areas\ContactsController\Controllers\" />
+      <Folder Include="Areas\ContactsController\Data\" />
+      <Folder Include="Areas\ContactsController\Models\" />
+      <Folder Include="Areas\ContactsController\Views\" />
+    </ItemGroup>
+
+
+</Project>

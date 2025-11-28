@@ -1,0 +1,55 @@
+using AutoMapper;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using NetCore.Busiess.Abstract;
+using NetCore.DTO.DTOs.CourseDtos;
+using NetCore.Entity.Entities;
+
+namespace NetCore.API.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class CoursesController(IGenericService<Course> _courseService,IMapper _mapper) : ControllerBase
+    {
+        [HttpGet]
+        public IActionResult Get()
+        {
+            var values=_courseService.TGetList();
+            return Ok(values);
+        }
+
+        
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+        {
+            var value = _courseService.TGetById(id);
+            return Ok(value);
+        }
+
+        
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            _courseService.TDelete(id);
+            return Ok("Delete");
+        }
+
+        [HttpPost]
+
+        public IActionResult Create(CreateCourseDto createCourseDto)
+        {
+            var newValue = _mapper.Map<Course>(createCourseDto);
+            _courseService.TCreate(newValue);
+            return Ok("Create Course");
+        }
+
+        [HttpPut]
+
+        public IActionResult Update(UpdateCourseDto updateCourseDto)
+        {
+            var value = _mapper.Map<Course>(updateCourseDto);
+            _courseService.TUpdate(value);
+            return Ok("Course Update");
+        }
+    }
+}

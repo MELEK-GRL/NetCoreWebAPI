@@ -1,0 +1,15 @@
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/bin/Debug/net8.0/NetCore.DTO.deps.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/bin/Debug/net8.0/NetCore.DTO.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/bin/Debug/net8.0/NetCore.DTO.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/bin/Debug/net8.0/NetCore.Entity.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/bin/Debug/net8.0/NetCore.Entity.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.csproj.AssemblyReference.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.AssemblyInfoInputs.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.AssemblyInfo.cs
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.csproj.CoreCompileInputs.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore..C5AB6123.Up2Date
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/refint/NetCore.DTO.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/ref/NetCore.DTO.dll

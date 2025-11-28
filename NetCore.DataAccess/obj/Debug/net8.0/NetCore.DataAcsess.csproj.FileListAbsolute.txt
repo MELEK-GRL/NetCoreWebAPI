@@ -1,0 +1,15 @@
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/bin/Debug/net8.0/NetCore.DataAcsess.deps.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/bin/Debug/net8.0/NetCore.DataAcsess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/bin/Debug/net8.0/NetCore.DataAcsess.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/bin/Debug/net8.0/NetCore.Entity.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/bin/Debug/net8.0/NetCore.Entity.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.csproj.AssemblyReference.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.AssemblyInfoInputs.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.AssemblyInfo.cs
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.csproj.CoreCompileInputs.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore..DDD77772.Up2Date
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/refint/NetCore.DataAcsess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/NetCore.DataAcsess.pdb
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAcsess/obj/Debug/net8.0/ref/NetCore.DataAcsess.dll

@@ -1,0 +1,55 @@
+using AutoMapper;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using NetCore.Busiess.Abstract;
+using NetCore.DTO.DTOs.SocialMediaDtos;
+using NetCore.Entity.Entities;
+
+namespace NetCore.API.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class SocialMediasController(IGenericService<SocialMedia> _socialMediaService,IMapper _mapper) : ControllerBase
+    {
+        [HttpGet]
+        public IActionResult Get()
+        {
+            var values=_socialMediaService.TGetList();
+            return Ok(values);
+        }
+
+        
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+        {
+            var value = _socialMediaService.TGetById(id);
+            return Ok(value);
+        }
+
+        
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            _socialMediaService.TDelete(id);
+            return Ok("Delete");
+        }
+
+        [HttpPost]
+
+        public IActionResult Create(CreateSocialMediaDto createSocialMediaDto)
+        {
+            var newValue = _mapper.Map<SocialMedia>(createSocialMediaDto);
+            _socialMediaService.TCreate(newValue);
+            return Ok("Create SocialMedia");
+        }
+
+        [HttpPut]
+
+        public IActionResult Update(UpdateSocialMediaDto updateSocialMediaDto)
+        {
+            var value = _mapper.Map<SocialMedia>(updateSocialMediaDto);
+            _socialMediaService.TUpdate(value);
+            return Ok("SocialMedia Update");
+        }
+    }
+}
