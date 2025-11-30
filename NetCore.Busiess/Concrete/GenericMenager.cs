@@ -4,7 +4,7 @@ using NetCore.DataAcsess.Abstract;
 
 namespace NetCore.Busiess.Concrete;
 
-public class GenericMenager<T>(IRepositroy<T> _repository) : IGenericService<T> where T : class
+public class GenericMenager<T>(IRepository<T> _repository) : IGenericService<T> where T : class
 {
     
     public List<T> TGetList()

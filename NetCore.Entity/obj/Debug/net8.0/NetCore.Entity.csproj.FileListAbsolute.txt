@@ -12,3 +12,4 @@
 /Users/melek/RiderProjects/NetCoreProject/NetCore.Entity/obj/Debug/net8.0/NetCore.Entity.pdb
 /Users/melek/RiderProjects/NetCoreProject/NetCore.Entity/obj/Debug/net8.0/NetCore.Entity.genruntimeconfig.cache
 /Users/melek/RiderProjects/NetCoreProject/NetCore.Entity/obj/Debug/net8.0/ref/NetCore.Entity.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Entity/obj/Debug/net8.0/NetCore.Entity.sourcelink.json

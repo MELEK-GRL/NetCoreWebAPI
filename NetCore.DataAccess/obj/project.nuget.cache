@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/dOPO7zSjZo=",
+  "dgSpecHash": "rRcPxkPejaw=",
   "success": true,
   "projectFilePath": "/Users/melek/RiderProjects/NetCoreProject/NetCore.DataAccess/NetCore.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -80,7 +80,9 @@
     "/Users/melek/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
     "/Users/melek/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
     "/Users/melek/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/Users/melek/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+    "/Users/melek/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
+    "/Users/melek/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/melek/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
   ],
   "logs": []
 }

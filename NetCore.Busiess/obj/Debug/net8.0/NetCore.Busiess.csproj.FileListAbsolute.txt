@@ -15,3 +15,4 @@
 /Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/refint/NetCore.Busiess.dll
 /Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.pdb
 /Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/ref/NetCore.Busiess.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.Busiess/obj/Debug/net8.0/NetCore.Busiess.sourcelink.json

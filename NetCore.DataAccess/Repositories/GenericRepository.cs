@@ -5,7 +5,7 @@ using NetCore.DataAcsess.Abstract;
 
 namespace NetCore.DataAcsess.Repositories;
 
-public class GenericRepostroy<T>(NetCoreContext _context) : IRepositroy<T> where T : class
+public class GenericRepository<T>(NetCoreContext _context) : IRepository<T> where T : class
 //PRIMARY CONSTRUCTOR:=>
 //_context’i her metoda TEKRAR TEKRAR yazmak zorunda kalmıyoruz, çünkü primary constructor onu class’ın tamamına otomatik tanıtıyor.
 

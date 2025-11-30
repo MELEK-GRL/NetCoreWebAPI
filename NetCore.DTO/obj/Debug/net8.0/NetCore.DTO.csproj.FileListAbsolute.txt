@@ -13,3 +13,4 @@
 /Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/refint/NetCore.DTO.dll
 /Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.pdb
 /Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/ref/NetCore.DTO.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.DTO/obj/Debug/net8.0/NetCore.DTO.sourcelink.json

@@ -2,7 +2,7 @@ using System.Linq.Expressions;
 
 namespace NetCore.DataAcsess.Abstract;
 
-public interface IRepositroy<T> where T : class
+public interface IRepository<T> where T : class
 {
     List<T> GetList();
     T GetByFilter(Expression<Func<T, bool>> predicate);

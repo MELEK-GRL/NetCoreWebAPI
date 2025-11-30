@@ -37,7 +37,7 @@ builder.Services.AddDbContext<NetCoreContext>(options =>
 });
 
 //SERVİSLERİ EKLEYELİM
-builder.Services.AddScoped(typeof(IRepositroy<>), typeof(GenericRepostroy<>));//DATAACCESS TARAFI AboutsControllers.cs
+builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));//DATAACCESS TARAFI AboutsControllers.cs
 builder.Services.AddScoped(typeof(IGenericService<>), typeof(GenericMenager<>));//BUSİESS TARAFI
 
 var app = builder.Build();

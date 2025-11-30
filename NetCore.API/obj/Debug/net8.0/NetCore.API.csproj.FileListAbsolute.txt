@@ -250,11 +250,6 @@
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/NetCore.API.MvcApplicationPartsAssemblyInfo.cache
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets.build.json
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets.development.json
-/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets/msbuild.NetCore.API.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets/msbuild.build.NetCore.API.props
-/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NetCore.API.props
-/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NetCore.API.props
-/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/scopedcss/bundle/NetCore.API.styles.css
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/NetCore..F7BDB15C.Up2Date
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/NetCore.API.dll
@@ -262,3 +257,11 @@
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/NetCore.API.pdb
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/NetCore.API.genruntimeconfig.cache
 /Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/ref/NetCore.API.dll
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/NetCore.API.sourcelink.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/bin/Debug/net8.0/NetCore.API.staticwebassets.endpoints.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/melek/RiderProjects/NetCoreProject/NetCore.API/obj/Debug/net8.0/staticwebassets.build.endpoints.json
